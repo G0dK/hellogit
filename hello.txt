@@ -1,0 +1,2 @@
+hello this is a simple file
+git is a good version control system
